@@ -1,5 +1,13 @@
 # Deliverbot_using_ANPR
-Deliverbot using ANPR
+1. We made Deliverbot using Turtlebot3.
+
+2. We used ANPR on Raspberry PI for recognizing room number.
+
+3. We used socket communication between Turtlebot3 and Raspberry PI for forwarding room number data.
+
+4. If Deliverbot recognizes room number, it stops in front of the door.
+
+If you want to know how to operate Deliverbot, Please refer to the video!
 
 # Setup
 Environment : Ubuntu 18.04 (VirtualBox) / Ros melodic
