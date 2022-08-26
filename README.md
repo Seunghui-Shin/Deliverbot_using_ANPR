@@ -7,7 +7,7 @@
 
 4. If Deliverbot recognizes room number, it stops in front of the door.
 
-If you want to know how to operate Deliverbot, lease refer to the video in report folder!
+If you want to know how to operate Deliverbot, Please refer to the video in report folder!
 
 # Setup
 Environment : Ubuntu 18.04 (VirtualBox) / Ros melodic
